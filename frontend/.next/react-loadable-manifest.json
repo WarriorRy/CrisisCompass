@@ -1,0 +1,20 @@
+{
+  "components\\DisasterForm.tsx -> ./MapPicker": {
+    "id": "components\\DisasterForm.tsx -> ./MapPicker",
+    "files": [
+      "static/chunks/components_MapPicker_tsx.js"
+    ]
+  },
+  "components\\ResourceMap.tsx -> ./SelectedMarkerPopupOpener": {
+    "id": "components\\ResourceMap.tsx -> ./SelectedMarkerPopupOpener",
+    "files": [
+      "static/chunks/components_SelectedMarkerPopupOpener_tsx.js"
+    ]
+  },
+  "components\\ResourceMap.tsx -> react-leaflet": {
+    "id": "components\\ResourceMap.tsx -> react-leaflet",
+    "files": [
+      "static/chunks/node_modules_react-leaflet_lib_index_js.js"
+    ]
+  }
+}

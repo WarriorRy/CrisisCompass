@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/disaster/[id]": "pages/disaster/[id].js",
+  "/contributions": "pages/contributions.js",
+  "/create": "pages/create.js",
+  "/api/disasters": "pages/api/disasters.js",
+  "/": "pages/index.js",
+  "/official-updates": "pages/official-updates.js",
+  "/api/official-updates": "pages/api/official-updates.js"
+}
